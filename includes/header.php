@@ -1,10 +1,10 @@
 <div class="bg-top navbar-light">
     	<div class="container">
     		<div class="row no-gutters d-flex align-items-center align-items-stretch">
-    			<div class="col-md-4 d-flex align-items-center py-4">
-    				<a class="navbar-brand" href="index.php">Naval Marine<span></span></a>
+    			<div class="col-md-6 d-flex align-items-center py-2">
+    				<a class="navbar-brand" href="index.php">Digynavalmaritime<span></span></a>
     			</div>
-	    		<div class="col-lg-8 d-block">
+	    		<div class="col-lg-6 d-block">
 		    		<div class="row d-flex">
 					    <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
@@ -48,7 +48,7 @@
 	        	<li class="nav-item"><a href="index.php" class="nav-link pl-0">Home</a></li>
 	        	<li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
 	        	<li class="nav-item"><a href="courses.php" class="nav-link">Courses</a></li>
-	        	<li class="nav-item"><a href="blog-single.php" class="nav-link">Our partners</a></li>
+	        	<li class="nav-item"><a href="our-partners.php" class="nav-link">Our partners</a></li>
 	            <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>

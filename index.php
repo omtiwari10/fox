@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Naval Marine</title>
+    <title>Digynavalmaritime</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -48,7 +48,7 @@
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">Chart Your Maritime Future with US</h1>
             <p>offering a comprehensive and cutting-edge curriculum designed to prepare aspiring seafarers.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">apply</a></p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Apply Now</a></p>
           </div>
         </div>
         </div>

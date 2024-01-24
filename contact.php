@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Naval Marine</title>
+    <title>Digynavalmaritime</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -45,7 +45,7 @@
           <div class="col-md-3 d-flex">
           	<div class="bg-light align-self-stretch box p-4 text-center">
           		<h3 class="mb-4">Address</h3>
-	            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+	            <p> 4/654, Vaibhav Khand, Gomti Nagar, Lucknow -226010, Uttar Pradesh, India</p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -63,7 +63,7 @@
           <div class="col-md-3 d-flex">
           	<div class="bg-light align-self-stretch box p-4 text-center">
           		<h3 class="mb-4">Website</h3>
-	            <p><a href="#">yoursite.com</a></p>
+	            <p><a href="#">digynavalmaritime</a></p>
 	          </div>
           </div>
         </div>
