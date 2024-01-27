@@ -27,7 +27,7 @@
 
     <!-- END nav -->
     
-    <section class="home-slider owl-carousel">
+    <section class="home-slider owl-carousel ">
       <div class="slider-item" style="background-image:url(images/bg1.jpg);">
       	<div class="overlay"></div>
         <div class="container">
@@ -35,7 +35,7 @@
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">A premier maritime training Institute in India</h1>
             <p>Successful completion of a programme qualifies a student to appear for their respective Certificate of Competency Examination.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Apply Now</a></p>
+            
           </div>
         </div>
         </div>
@@ -48,7 +48,7 @@
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">Chart Your Maritime Future with US</h1>
             <p>offering a comprehensive and cutting-edge curriculum designed to prepare aspiring seafarers.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Apply Now</a></p>
+            
           </div>
         </div>
         </div>
@@ -191,8 +191,8 @@
     				</div>
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
-            <h2 class="mb-4">Navel Maritime</h2>
-            <p>At Navel Maritime, we pride ourselves on providing world-class training and education to individuals aspiring to embark on a rewarding career in the Merchant Navy. Our state-of-the-art facilities, experienced faculty, and a commitment to fostering a culture of innovation and safety set us apart as a leading institution in maritime education.</p>
+            <h2 class="mb-4">Digynavalmaritime</h2>
+            <p>At Digy Navel Maritime, we pride ourselves on providing world-class training and education to individuals aspiring to embark on a rewarding career in the Merchant Navy. Our state-of-the-art facilities, experienced faculty, and a commitment to fostering a culture of innovation and safety set us apart as a leading institution in maritime education.</p>
             <p>Aspiring mariners at our institute undergo a holistic learning experience that encompasses theoretical knowledge, practical skills, and real-world exposure. </p>
           </div>
         </div>	
@@ -658,7 +658,7 @@
     	      </div>
          </section>
 
-	<!-- <?php include 'includes/footer.php'?> -->
+ 
 
 
   <script src="js/jquery.min.js"></script>

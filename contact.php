@@ -57,13 +57,13 @@
           <div class="col-md-3 d-flex">
           	<div class="bg-light align-self-stretch box p-4 text-center">
           		<h3 class="mb-4">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+	            <p><a href="mailto:contact@digynavalmaritime.com">contact@digynavalmaritime.com</a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="bg-light align-self-stretch box p-4 text-center">
           		<h3 class="mb-4">Website</h3>
-	            <p><a href="#">digynavalmaritime</a></p>
+	            <p><a href="#">www.digynavalmaritime.com</a></p>
 	          </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
 		</section>
 
 
-		<?php include 'includes/footer.php'?> -->
+	
 
 
   <script src="js/jquery.min.js"></script>
