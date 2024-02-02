@@ -33,49 +33,43 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
             <h1 class="mb-2 bread">Our partners</h1>
-             <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span>   <span>Our parteners <i class="ion-ios-arrow-forward"></i></span></p>
+             <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span>   <span>Our partners <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
     </section>
     <section>
-      <div class="col-md-12 d-flex ">
-        <div class="container" style="d-flexjustify-content:center; align-items: center;">
-         <h1>Our Partners</h1>
-         <ul>
-          <li><h2>MOL TANKSHIP MANAGEMENT</h2></li>
-          <li><h2>CENMAR MARITIME AGENCIES</h2></li>
-          <li><h2>EASTWAY(INDIA) PRIVATE LIMITED</h2></li>
-          <li><h2>BSM</h2></li>
-          <li><h2>TORM</h2></li>
-          <li><h2>MSC CREWING SERVICES</h2></li>
-          <li><h2>D'AMICO SHIP ISHIMA INDIA PVT. LTD.</h2></li>
-          <li><h2>PACIFIC MANNING AGENCY</h2></li>
-          <li><h2>PAIFIC BASIN SCORPIO MARINE MANAGEMENT INDIA </h2></li>
-         </ul>
+    <h1 style="display:flex; justify-content:center;">Our Partners</h1>
+      <div class="ourpartener">
+        <div class="our">
+         <div > MOL TANKSHIP MANAGEMENT</div>
+         <div >CENMAR MARITIME AGENCIES</div>
+         <div >EASTWAY(INDIA) PRIVATE LIMITED</div>
+         <div >BSM</div>
+         <div >TORM</div>
+         <div >MSC CREWING SERVICES</div>
+         <div >D'AMICO SHIP ISHIMA INDIA PVT. LTD.</div>
+         <div >PACIFIC MANNING AGENCY</div>
+         <div >PAIFIC BASIN SCORPIO MARINE MANAGEMENT INDIA</div>
         </div>
         <br>
-        <div class="container">
-          <h1></h1>
-          <ul>
-            <li><h2>ATLANTAS CREW MANAGEMENT</h2></li>
-            <li><h2>ANGLO-EASTERN</h2></li>
-            <li><h2>KEYLINE MARITIME SERVICES PVT.LTD.</h2></li>
-            <li><h2>BUENA VISTA SHIPPING</h2></li>
-            <li><h2>DELOS NAVIGATION LTD.</h2></li>
-            <li><h2>OSM THOME</h2></li>
-            <li><h2>NAUTICFLEET</h2></li>
-            <li><h2>UNAONE SHIP MANAGEMENT PVT LTD</h2></li>
-            <li><h2>M.T.M. SHIP MANAGEMENT</h2></li>
-            <li><h2>MARITEC TANKER MANAGEMENT</h2></li>
-          </ul>
+        <div class="our">
+          <div>ATLANTAS CREW MANAGEMENT</div>
+          <div>ANGLO-EASTERN</div>
+          <div>KEYLINE MARITIME SERVICES PVT.LTD.</div>
+          <div>BUENA VISTA SHIPPING</div>
+          <div>DELOS NAVIGATION LTD.</div>
+          <div>OSM THOME</div>
+          <div>NAUTICFLEET</div>
+          <div>UNAONE SHIP MANAGEMENT PVT LTD</div>
+          <div>M.T.M. SHIP MANAGEMENT</div>
+          <div>MARITEC TANKER MANAGEMENT</div>
         </div>
       </div>
     </section>
 		
 	
  
-    <!-- <?php include 'includes/footer.php'?> -->
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>

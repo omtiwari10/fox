@@ -9867,3 +9867,44 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+  .ourpartener{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+    }
+.our{
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+}
+.our div{
+  font-size: 23px;
+  color: black;
+  width: 350px;
+  height: 100px; 
+  background-color: whitesmoke; 
+  display: flex; 
+  align-items:center;
+  margin: 10px;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.our div:hover{
+  cursor: pointer;
+  transform: scale(1.5,1.5);
+  background-color: none;
+}
+@media(max-width:900px){
+  .ourpartener{
+    flex-wrap: wrap;
+  }
+  .our div{
+    width: 320px;
+    font-size: 20px;
+  }
+  .our div:hover{
+    transform: none;
+  .navbar-brand{
+    font-size: 28px;
+  }
+}
