@@ -9869,7 +9869,7 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
   .ourpartener{
    display: flex;
-   justify-content: space-evenly;
+   justify-content: center;
    align-items: center;
     }
 .our{
@@ -9903,7 +9903,8 @@ textarea.form-control {
     font-size: 20px;
   }
   .our div:hover{
-    transform: none;
+    transform: scale(1.1);
+  }
   .navbar-brand{
     font-size: 28px;
   }

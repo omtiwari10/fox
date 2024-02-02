@@ -42,28 +42,60 @@
     <h1 style="display:flex; justify-content:center;">Our Partners</h1>
       <div class="ourpartener">
         <div class="our">
-         <div > MOL TANKSHIP MANAGEMENT</div>
-         <div >CENMAR MARITIME AGENCIES</div>
-         <div >EASTWAY(INDIA) PRIVATE LIMITED</div>
-         <div >BSM</div>
-         <div >TORM</div>
-         <div >MSC CREWING SERVICES</div>
-         <div >D'AMICO SHIP ISHIMA INDIA PVT. LTD.</div>
-         <div >PACIFIC MANNING AGENCY</div>
-         <div >PAIFIC BASIN SCORPIO MARINE MANAGEMENT INDIA</div>
+         <div><img src="images/pat47.JPG" alt=""></div>
+         <div><img src="images/pat31.JPG" alt=""></div>
+         <div><img src="images/pat32.JPG" alt=""></div>
+         <div><img src="images/pat33.JPG" alt=""></div>
+         <div><img src="images/pat34.JPG" alt=""></div>
+         <div><img src="images/pat35.JPG" alt=""></div>
+         <div><img src="images/pat36.JPG" alt=""></div>
+         <div><img src="images/pat37.JPG" alt=""></div>
+         <div><img src="images/pat38.JPG" alt=""></div>
+         <div><img src="images/pat39.JPEG" alt=""></div>
+         <div><img src="images/pat40.JPEG" alt=""></div>
+         <div><img src="images/pat41.JPG" alt=""></div>
+         <div><img src="images/pat42.JPEG" alt=""></div>
+         <div><img src="images/pat43.JPG" alt=""></div>
+         <div><img src="images/pat44.JPG" alt=""></div>
+         <div><img src="images/pat45.JPG" alt=""></div>
         </div>
         <br>
         <div class="our">
-          <div>ATLANTAS CREW MANAGEMENT</div>
-          <div>ANGLO-EASTERN</div>
-          <div>KEYLINE MARITIME SERVICES PVT.LTD.</div>
-          <div>BUENA VISTA SHIPPING</div>
-          <div>DELOS NAVIGATION LTD.</div>
-          <div>OSM THOME</div>
-          <div>NAUTICFLEET</div>
-          <div>UNAONE SHIP MANAGEMENT PVT LTD</div>
-          <div>M.T.M. SHIP MANAGEMENT</div>
-          <div>MARITEC TANKER MANAGEMENT</div>
+         <div><img src="images/pat.JPG" alt=""></div>
+         <div><img src="images/pat1.JPG" alt=""></div>
+         <div><img src="images/pat2.JPG" alt=""></div>
+         <div><img src="images/pat3.JPG" alt=""></div>
+         <div><img src="images/pat4.JPG" alt=""></div>
+         <div><img src="images/pat5.JPG" alt=""></div>
+         <div><img src="images/pat6.JPG" alt=""></div>
+         <div><img src="images/pat7.JPG" alt=""></div>
+         <div><img src="images/pat8.JPG" alt=""></div>
+         <div><img src="images/pat9.JPG" alt=""></div>
+         <div><img src="images/pat10.JPG" alt=""></div>
+         <div><img src="images/pat11.JPG" alt=""></div>
+         <div><img src="images/pat12.JPG" alt=""></div>
+         <div><img src="images/pat13.JPG" alt=""></div>
+         <div><img src="images/pat14.JPG" alt=""></div>
+         <div><img src="images/pat46.JPG" alt=""></div>
+        </div>
+        <br>
+        <div class="our">
+          <div><img src="images/pat15.JPG" alt=""></div>
+          <div><img src="images/pat16.JPG" alt=""></div>
+          <div><img src="images/pat17.JPG" alt=""></div>
+          <div><img src="images/pat18.JPEG" alt=""></div>
+          <div><img src="images/pat19.JPG" alt=""></div>
+          <div><img src="images/pat20.JPG" alt=""></div>
+          <div><img src="images/pat21.JPG" alt=""></div>
+          <div><img src="images/pat22.JPG" alt=""></div>
+          <div><img src="images/pat23.JPG" alt=""></div>
+          <div><img src="images/pat24.JPG" alt=""></div>
+          <div><img src="images/pat25.JPG" alt=""></div>
+          <div><img src="images/pat26.JPG" alt=""></div>
+          <div><img src="images/pat27.JPG" alt=""></div>
+          <div><img src="images/pat28.JPG" alt=""></div>
+          <div><img src="images/pat29.JPG" alt=""></div>
+          <div><img src="images/pat30.JPG" alt=""></div>
         </div>
       </div>
     </section>
